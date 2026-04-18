@@ -1,2 +1,20 @@
-# student-legal-advisor-ai
-This is a AI model which trained on the student rights and laws and helps users to solve there problem related student life and also advises the students  in the ligal problems give solutions
+# Student Legal Advisor AI ⚖️
+
+This project is an AI-based chatbot that provides legal guidance to students based on Indian laws.
+
+## Features
+- Smart question understanding using NLP
+- Fraud detection in educational institutions
+- Feedback-based learning system
+- Modern chat interface
+
+## Tech Stack
+- Python
+- Flask
+- Scikit-learn
+- HTML/CSS
+
+## How to Run
+```bash
+pip install -r requirements.txt
+python app.py
